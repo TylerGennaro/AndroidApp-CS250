@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    android:label="@string/menu_chats"
+    app:startDestination="@id/nav_chats">
+
+    <fragment
+        android:id="@+id/nav_chats"
+        android:name="edu.monmouth.cs250.student.finalproject.ui.chats.ChatsFragment"
+        android:label="@string/menu_chats"
+        tools:layout="@layout/fragment_chats" />
+
+    <fragment
+        android:id="@+id/nav_discover"
+        android:name="edu.monmouth.cs250.student.finalproject.ui.discover.DiscoverFragment"
+        android:label="@string/menu_discover"
+        tools:layout="@layout/fragment_discover" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="edu.monmouth.cs250.student.finalproject.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

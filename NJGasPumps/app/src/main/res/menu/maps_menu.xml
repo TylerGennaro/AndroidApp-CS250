@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/streetMap"
+
+        android:title="Street" />
+
+    <item
+
+        android:id="@+id/satellieMap"
+
+        android:title="Satellite" />
+
+
+    <group
+
+        android:id="@+id/filter"
+
+        android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/all_pumps"
+
+            android:title="All" />
+
+        <item
+
+            android:id="@+id/nearby_pumps"
+
+            android:title="Nearby" />
+
+    </group>
+</menu>

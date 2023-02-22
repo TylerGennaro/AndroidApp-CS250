@@ -1,0 +1,154 @@
+{
+  "cs250Students":[
+    {
+      "Student Name": "Albarran, Davian A.",
+      "ID": 1302682,
+      "Email": "s1302682@monmouth.edu",
+      "Major": "SE/HON",
+      "Class": 2,
+      "Advisor": "S. Khamaiseh",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Ali, Mujeeb",
+      "ID": 1285220,
+      "Email": "s1285220@monmouth.edu",
+      "Major": "CS",
+      "Class": 2,
+      "Advisor": "S. Khamaiseh",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Aromando, Christopher David",
+      "ID": 1171536,
+      "Email": "s1171536@monmouth.edu",
+      "Major": "CS",
+      "Class": 3,
+      "Advisor": "S. Khamaiseh",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Bazante, Juan M.",
+      "ID": 1241636,
+      "Email": "s1241636@monmouth.edu",
+      "Major": "CS",
+      "Class": 4,
+      "Advisor": "J. Chung",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Blanc Doblas, Estania",
+      "ID": 1306205,
+      "Email": "s1306205@monmouth.edu",
+      "Major": "CS",
+      "Class": 2,
+      "Advisor": "C. Yu",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Genardi, Nicholas Joseph",
+      "ID": 1313642,
+      "Email": "s1313642@monmouth.edu",
+      "Major": "SE",
+      "Class": 2,
+      "Advisor": "G. Eckert",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Gennaro, Tyler Gregory",
+      "ID": 1305961,
+      "Email": "s1305961@monmouth.edu",
+      "Major": "CS",
+      "Class": 2,
+      "Advisor": "C. Yu",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Lawrie, Daniel J.",
+      "ID": 1302851,
+      "Email": "s1302851@monmouth.edu",
+      "Major": "CS",
+      "Class": 2,
+      "Advisor": "G. Eckert",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Le, Bryan P.",
+      "ID": 1285204,
+      "Email": "s1285204@monmouth.edu",
+      "Major": "SE",
+      "Class": 3,
+      "Advisor": "S. Khamaiseh",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Marquez, Veronica",
+      "ID": 1125739,
+      "Email": "s1125739@monmouth.edu",
+      "Major": "CS/MA",
+      "Class": 4,
+      "Advisor": "W. Pang/J. Kretsch",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Nardelli, Anna Adele",
+      "ID": 1164308,
+      "Email": "s1164308@monmouth.edu",
+      "Major": "CS",
+      "Class": 3,
+      "Advisor": "J. Wang",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Przelomski, Connor John",
+      "ID": 1306843,
+      "Email": "s1306843@monmouth.edu",
+      "Major": "CS",
+      "Class": 2,
+      "Advisor": "C. Yu",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Robinson, Annabelle Indiana",
+      "ID": 1212304,
+      "Email": "s1212304@monmouth.edu",
+      "Major": "CJ",
+      "Class": 4,
+      "Advisor": "M. Forney",
+      "Credits": 3,
+      "Admit Status": "Withdrawn"
+    },
+    {
+      "Student Name": "Swentkowski, Brian Anthony",
+      "ID": 1229609,
+      "Email": "s1229609@monmouth.edu",
+      "Major": "CS",
+      "Class": 3,
+      "Advisor": "J. Chung",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    },
+    {
+      "Student Name": "Youssef, Abdulrahman Hazem",
+      "ID": 1288295,
+      "Email": "s1288295@monmouth.edu ",
+      "Major": "CS ",
+      "Class": 3,
+      "Advisor": "G. Eckert ",
+      "Credits": 3,
+      "Admit Status": "Registered"
+    }
+  ]
+}

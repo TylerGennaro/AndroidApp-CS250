@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554579310933",
+    "project_id": "finalproject-8b860",
+    "storage_bucket": "finalproject-8b860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554579310933:android:02100c760ba1b3242957dc",
+        "android_client_info": {
+          "package_name": "edu.monmouth.cs250.student.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554579310933-05e5ij2lcoftts2c8kha0tf6gcotjall.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOjuQ3aFaHiA4ilfB4PggAOQsAjqljus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554579310933-05e5ij2lcoftts2c8kha0tf6gcotjall.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
